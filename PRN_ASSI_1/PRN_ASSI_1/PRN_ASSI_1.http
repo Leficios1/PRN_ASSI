@@ -1,0 +1,6 @@
+@PRN_ASSI_1_HostAddress = http://localhost:5113
+
+GET {{PRN_ASSI_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
