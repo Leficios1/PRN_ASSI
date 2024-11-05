@@ -15,6 +15,7 @@ using PRN_ASS1_RazorPage.Helper;
 
 namespace PRN_ASS1_RazorPage.Pages.Jewely
 {
+    [RequireAuthentication]
     public class IndexModel : AuthenticationHelper
     {
 
@@ -30,11 +31,12 @@ namespace PRN_ASS1_RazorPage.Pages.Jewely
         {
             try
             {
+                
 
                 //RegisAuthen
-                if (!SetupTokenAuthentication())
+                if (SetupTokenAuthentication() == false)
                 {
-                    RedirectToPage("/Index");
+                    RedirectToPage("Pages/Index");
                 }
 
 

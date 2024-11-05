@@ -39,6 +39,10 @@ namespace PRN_ASS1_RazorPage.Pages.Jewely
             }
             try
             {
+                if (!_httpClient.DefaultRequestHeaders.Contains("Authorization"))
+                {
+                    _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", HttpContext.Session.GetString("Token"));
+                }
                 var response = await _httpClient.GetAsync($"http://localhost:5113/api/Jwerly/GetById/{id}");
 
                 if (response.IsSuccessStatusCode)
@@ -77,6 +81,15 @@ namespace PRN_ASS1_RazorPage.Pages.Jewely
         {
             try
             {
+                if (!SetupTokenAuthentication())
+                {
+                    RedirectToPage("/Index");
+                }
+
+                if (!_httpClient.DefaultRequestHeaders.Contains("Authorization"))
+                {
+                    _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", HttpContext.Session.GetString("Token"));
+                }
                 var response = await _httpClient.DeleteAsync($"http://localhost:5113/api/Jwerly/Deleted/{id}");
 
                 if (response.IsSuccessStatusCode)
