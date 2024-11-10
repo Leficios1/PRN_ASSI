@@ -8534,11 +8534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Test_2.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PRN231_ASSI\\Test2\\Test_2\\Test_2.csproj",
       "projectName": "Test_2",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Test_2.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\PRN231_ASSI\\Test2\\Test_2\\Test_2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\PRN231_ASSI\\Test2\\Test_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8556,8 +8556,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test2\\Test2.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test2\\Test2.csproj"
+            "C:\\Users\\Admin\\Desktop\\PRN231_ASSI\\Test2\\Test2\\Test2.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\PRN231_ASSI\\Test2\\Test2\\Test2.csproj"
             }
           }
         }

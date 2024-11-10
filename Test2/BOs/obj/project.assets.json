@@ -4406,11 +4406,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\BOs\\BOs.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PRN231_ASSI\\Test2\\BOs\\BOs.csproj",
       "projectName": "BOs",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\BOs\\BOs.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\PRN231_ASSI\\Test2\\BOs\\BOs.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\BOs\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\PRN231_ASSI\\Test2\\BOs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,12 +7,13 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using BOs.Models;
 using Newtonsoft.Json;
+using System.Text;
 
 namespace Test_2.Pages.SilverJwery
 {
     public class CreateModel : PageModel
     {
-        private List<Category> categories { get; set;} = new List<Category>();
+        public List<Category> categories { get; set; } = new List<Category>();
         public async Task<IActionResult> OnGet()
         {
             var token = HttpContext.Session.GetString("Token");
@@ -48,10 +49,30 @@ namespace Test_2.Pages.SilverJwery
                 return Page();
             }
 
-            _context.SilverJewelries.Add(SilverJewelry);
-            await _context.SaveChangesAsync();
+            var token = HttpContext.Session.GetString("Token");
+            if (string.IsNullOrEmpty(token))
+            {
+                return RedirectToPage("/Index");
+            }
 
-            return RedirectToPage("./Index");
+            using (var httpClient = new HttpClient())
+            {
+                httpClient.DefaultRequestHeaders.Authorization =
+                    new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
+
+                var json = JsonConvert.SerializeObject(SilverJewelry);
+                var content = new StringContent(json, Encoding.UTF8, "application/json");
+                var response = await httpClient.PostAsync($"http://localhost:5008/Create", content);
+                if (response.IsSuccessStatusCode)
+                {
+                    TempData["Message"] = "Create Succesfull";
+                    return RedirectToPage("./Index");
+                }
+                else
+                {
+                    return Page();
+                }
+            }
         }
     }
 }
