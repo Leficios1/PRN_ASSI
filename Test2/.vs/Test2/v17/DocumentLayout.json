@@ -1,0 +1,630 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\pages\\silverjwery\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\pages\\silverjwery\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\pages\\silverjwery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\pages\\silverjwery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\pages\\silverjwery\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\pages\\silverjwery\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\dto\\odatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\dto\\odatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461D8B16-D48C-4174-AB3C-8B9FE75029DF}|BOs\\BOs.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\bos\\models\\silverjewelry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461D8B16-D48C-4174-AB3C-8B9FE75029DF}|BOs\\BOs.csproj|solutionrelative:bos\\models\\silverjewelry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461D8B16-D48C-4174-AB3C-8B9FE75029DF}|BOs\\BOs.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\bos\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461D8B16-D48C-4174-AB3C-8B9FE75029DF}|BOs\\BOs.csproj|solutionrelative:bos\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFA23A7-B6FF-4BDC-B3E3-A1E43B8B26EB}|Test2\\Test2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test2\\controllers\\silverjewelryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFA23A7-B6FF-4BDC-B3E3-A1E43B8B26EB}|Test2\\Test2.csproj|solutionrelative:test2\\controllers\\silverjewelryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755CEB45-730E-43C9-B441-4F93D10AF132}|DAO\\DAO.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\dao\\dto\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755CEB45-730E-43C9-B441-4F93D10AF132}|DAO\\DAO.csproj|solutionrelative:dao\\dto\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755CEB45-730E-43C9-B441-4F93D10AF132}|DAO\\DAO.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\dao\\dto\\accountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755CEB45-730E-43C9-B441-4F93D10AF132}|DAO\\DAO.csproj|solutionrelative:dao\\dto\\accountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFA23A7-B6FF-4BDC-B3E3-A1E43B8B26EB}|Test2\\Test2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFA23A7-B6FF-4BDC-B3E3-A1E43B8B26EB}|Test2\\Test2.csproj|solutionrelative:test2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFA23A7-B6FF-4BDC-B3E3-A1E43B8B26EB}|Test2\\Test2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFA23A7-B6FF-4BDC-B3E3-A1E43B8B26EB}|Test2\\Test2.csproj|solutionrelative:test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BB604A-D716-4F13-A669-580E18605E5D}|Repository\\Repository.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\repository\\interface\\isilverjewelryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BB604A-D716-4F13-A669-580E18605E5D}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\isilverjewelryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BB604A-D716-4F13-A669-580E18605E5D}|Repository\\Repository.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\repository\\interface\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BB604A-D716-4F13-A669-580E18605E5D}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755CEB45-730E-43C9-B441-4F93D10AF132}|DAO\\DAO.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\dao\\silverjewelrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755CEB45-730E-43C9-B441-4F93D10AF132}|DAO\\DAO.csproj|solutionrelative:dao\\silverjewelrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755CEB45-730E-43C9-B441-4F93D10AF132}|DAO\\DAO.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\dao\\branhaccoundao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755CEB45-730E-43C9-B441-4F93D10AF132}|DAO\\DAO.csproj|solutionrelative:dao\\branhaccoundao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFA23A7-B6FF-4BDC-B3E3-A1E43B8B26EB}|Test2\\Test2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BFA23A7-B6FF-4BDC-B3E3-A1E43B8B26EB}|Test2\\Test2.csproj|solutionrelative:test2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\pages\\silverjwery\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\pages\\silverjwery\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BB604A-D716-4F13-A669-580E18605E5D}|Repository\\Repository.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\repository\\silverjewelryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BB604A-D716-4F13-A669-580E18605E5D}|Repository\\Repository.csproj|solutionrelative:repository\\silverjewelryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\pages\\silverjwery\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\pages\\silverjwery\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\pages\\silverjwery\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\pages\\silverjwery\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\pages\\silverjwery\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\pages\\silverjwery\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BB604A-D716-4F13-A669-580E18605E5D}|Repository\\Repository.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BB604A-D716-4F13-A669-580E18605E5D}|Repository\\Repository.csproj|solutionrelative:repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\test_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\test_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\pages\\silverjwery\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\pages\\silverjwery\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\pages\\silverjwery\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\pages\\silverjwery\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test_2\\pages\\silverjwery\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26D695E2-2711-4772-AEAA-8E1FAFC48882}|Test_2\\Test_2.csproj|solutionrelative:test_2\\pages\\silverjwery\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFA23A7-B6FF-4BDC-B3E3-A1E43B8B26EB}|Test2\\Test2.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\test2\\test2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BFA23A7-B6FF-4BDC-B3E3-A1E43B8B26EB}|Test2\\Test2.csproj|solutionrelative:test2\\test2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461D8B16-D48C-4174-AB3C-8B9FE75029DF}|BOs\\BOs.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\bos\\models\\silverjewelry2023dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461D8B16-D48C-4174-AB3C-8B9FE75029DF}|BOs\\BOs.csproj|solutionrelative:bos\\models\\silverjewelry2023dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461D8B16-D48C-4174-AB3C-8B9FE75029DF}|BOs\\BOs.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\bos\\models\\branchaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461D8B16-D48C-4174-AB3C-8B9FE75029DF}|BOs\\BOs.csproj|solutionrelative:bos\\models\\branchaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BB604A-D716-4F13-A669-580E18605E5D}|Repository\\Repository.csproj|c:\\users\\admin\\desktop\\perrn\\test2\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49BB604A-D716-4F13-A669-580E18605E5D}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1530703725:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SilverJewelry.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\BOs\\Models\\SilverJewelry.cs",
+              "RelativeDocumentMoniker": "BOs\\Models\\SilverJewelry.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\BOs\\Models\\SilverJewelry.cs",
+              "RelativeToolTip": "BOs\\Models\\SilverJewelry.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:29:01.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test_2\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Test_2\\Pages\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T21:41:14.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Test_2\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Test_2\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:41:21.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test_2\\Pages\\SilverJwery\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Index.cshtml",
+              "RelativeToolTip": "Test_2\\Pages\\SilverJwery\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T21:40:33.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OdataDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\DTO\\OdataDTO.cs",
+              "RelativeDocumentMoniker": "Test_2\\DTO\\OdataDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\DTO\\OdataDTO.cs",
+              "RelativeToolTip": "Test_2\\DTO\\OdataDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:00:54.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Test_2\\Pages\\SilverJwery\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Edit.cshtml.cs",
+              "RelativeToolTip": "Test_2\\Pages\\SilverJwery\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:40:33.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Test_2\\Pages\\SilverJwery\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Index.cshtml.cs",
+              "RelativeToolTip": "Test_2\\Pages\\SilverJwery\\Index.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:40:33.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\BOs\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BOs\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\BOs\\Models\\Category.cs",
+              "RelativeToolTip": "BOs\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:46:07.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Program.cs",
+              "RelativeDocumentMoniker": "Test_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Program.cs",
+              "RelativeToolTip": "Test_2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:41:14.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\appsettings.json",
+              "RelativeDocumentMoniker": "Test_2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\appsettings.json",
+              "RelativeToolTip": "Test_2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T21:43:15.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\DAO\\DTO\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "DAO\\DTO\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\DAO\\DTO\\TokenResponse.cs",
+              "RelativeToolTip": "DAO\\DTO\\TokenResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:54:13.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\DAO\\DTO\\AccountRequest.cs",
+              "RelativeDocumentMoniker": "DAO\\DTO\\AccountRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\DAO\\DTO\\AccountRequest.cs",
+              "RelativeToolTip": "DAO\\DTO\\AccountRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:53:35.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test2\\Program.cs",
+              "RelativeDocumentMoniker": "Test2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test2\\Program.cs",
+              "RelativeToolTip": "Test2\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwFsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:37:07.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SilverJewelrysController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test2\\Controllers\\SilverJewelrysController.cs",
+              "RelativeDocumentMoniker": "Test2\\Controllers\\SilverJewelrysController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test2\\Controllers\\SilverJewelrysController.cs",
+              "RelativeToolTip": "Test2\\Controllers\\SilverJewelrysController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvz0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:40:07.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Test2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Test2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAhwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:49:07.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISilverJewelryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Repository\\Interface\\ISilverJewelryRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\ISilverJewelryRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Repository\\Interface\\ISilverJewelryRepo.cs",
+              "RelativeToolTip": "Repository\\Interface\\ISilverJewelryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:34:13.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Repository\\Interface\\IAccountRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IAccountRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Repository\\Interface\\IAccountRepo.cs",
+              "RelativeToolTip": "Repository\\Interface\\IAccountRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:32:36.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SilverJewelryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\DAO\\SilverJewelryDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\SilverJewelryDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\DAO\\SilverJewelryDAO.cs",
+              "RelativeToolTip": "DAO\\SilverJewelryDAO.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAxwIsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:23:56.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BranhAccounDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\DAO\\BranhAccounDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\BranhAccounDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\DAO\\BranhAccounDAO.cs",
+              "RelativeToolTip": "DAO\\BranhAccounDAO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:21:23.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test2\\appsettings.json",
+              "RelativeDocumentMoniker": "Test2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test2\\appsettings.json",
+              "RelativeToolTip": "Test2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T20:18:44.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Test_2\\Pages\\SilverJwery\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Create.cshtml.cs",
+              "RelativeToolTip": "Test_2\\Pages\\SilverJwery\\Create.cshtml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:40:33.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SilverJewelryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Repository\\SilverJewelryRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\SilverJewelryRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Repository\\SilverJewelryRepo.cs",
+              "RelativeToolTip": "Repository\\SilverJewelryRepo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:35:28.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Create.cshtml",
+              "RelativeDocumentMoniker": "Test_2\\Pages\\SilverJwery\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Create.cshtml",
+              "RelativeToolTip": "Test_2\\Pages\\SilverJwery\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T21:40:32.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Test_2\\Pages\\SilverJwery\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Delete.cshtml.cs",
+              "RelativeToolTip": "Test_2\\Pages\\SilverJwery\\Delete.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:40:33.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Test_2\\Pages\\SilverJwery\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Delete.cshtml",
+              "RelativeToolTip": "Test_2\\Pages\\SilverJwery\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T21:40:33.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Repository\\AccountRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\AccountRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Repository\\AccountRepo.cs",
+              "RelativeToolTip": "Repository\\AccountRepo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:33:07.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Test_2.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Test_2.csproj",
+              "RelativeDocumentMoniker": "Test_2\\Test_2.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Test_2.csproj",
+              "RelativeToolTip": "Test_2\\Test_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T21:39:11.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Test_2\\Pages\\SilverJwery\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Edit.cshtml",
+              "RelativeToolTip": "Test_2\\Pages\\SilverJwery\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T21:40:33.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Details.cshtml",
+              "RelativeDocumentMoniker": "Test_2\\Pages\\SilverJwery\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Details.cshtml",
+              "RelativeToolTip": "Test_2\\Pages\\SilverJwery\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T21:40:33.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Test_2\\Pages\\SilverJwery\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test_2\\Pages\\SilverJwery\\Details.cshtml.cs",
+              "RelativeToolTip": "Test_2\\Pages\\SilverJwery\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:40:33.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SilverJewelry2023DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\BOs\\Models\\SilverJewelry2023DbContext.cs",
+              "RelativeDocumentMoniker": "BOs\\Models\\SilverJewelry2023DbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\BOs\\Models\\SilverJewelry2023DbContext.cs",
+              "RelativeToolTip": "BOs\\Models\\SilverJewelry2023DbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:20:02.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Test2.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test2\\Test2.csproj",
+              "RelativeDocumentMoniker": "Test2\\Test2.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Test2\\Test2.csproj",
+              "RelativeToolTip": "Test2\\Test2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T20:15:49.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T20:30:56.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BranchAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\BOs\\Models\\BranchAccount.cs",
+              "RelativeDocumentMoniker": "BOs\\Models\\BranchAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PERRN\\Test2\\BOs\\Models\\BranchAccount.cs",
+              "RelativeToolTip": "BOs\\Models\\BranchAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:43:44.318Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
